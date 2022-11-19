@@ -1,0 +1,14 @@
+.box {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  margin: 10px;
+  background-color: white;
+}
+.container{
+background-color: cyan;
+height: 300px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
